@@ -19,6 +19,7 @@ As part of an academic project, I worked with Kafka to explore its fundamentals,
 
 - `kafka presentation`  
   Slides used during the presentation of my academic project (not the workshop).
+  https://docs.google.com/presentation/d/1aoOvu6dcA3CUlgXIDcCll8OZWtoFHuzh5AoFshXB8yw/edit?usp=drive_link
 
 - `kafka_theory_notes`  
   Summary notes covering essential Kafka theory (topics like producers, consumers, topics, partitions, and replication).
