@@ -13,9 +13,11 @@ As part of an academic project, I worked with Kafka to explore its fundamentals,
 
 - `failure_simulation`  
   A video demonstrating Kafka's behavior during a broker failure.
+  https://drive.google.com/drive/folders/1UHS5SSQhJhVNrxntDOtEspNHRk7yElvK?usp=sharing
 
 - `Testing Kafka consumer`  
   A video showcasing how to test a Kafka consumer in a basic setup.
+  https://drive.google.com/drive/folders/1UHS5SSQhJhVNrxntDOtEspNHRk7yElvK?usp=sharing
 
 - `kafka presentation`  
   Slides used during the presentation of my academic project (not the workshop).
